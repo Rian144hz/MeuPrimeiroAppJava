@@ -25,7 +25,8 @@ Também fiz algumas melhorias, como remover a repetição do botão em todas as 
 
 ## 🖼️ Imagem do app
 
-<img src="img_app_java" width="300">
+<img src="iimg_app_java.png.png
+" width="300">
 
 ---
 
